@@ -9,6 +9,8 @@ A navigation bar contains a list of links to help visitors navigating through yo
 #### Its having the list of the clients and patners connected with the Bakery.
 ![webpage_3](https://user-images.githubusercontent.com/54896331/107784440-77964180-6d71-11eb-9d6b-ecaeca167a9a.png)
 #### This Section contains the Form to fill in details of the Customer.At the Bottom of the WebPage it contains the Footer contains information like copyright and contact info
+![webpage_4](https://user-images.githubusercontent.com/54896331/107787007-8d593600-6d74-11eb-9072-adc84873874e.png)
+
 
 
 
